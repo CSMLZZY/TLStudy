@@ -3,3 +3,4 @@
 #### 若使用：https://nbviewer.org/ 还是无法预览，烦请下载到本地查看
 目录：<br/>
 1：DANN算法实现MNIST和MNIST-M数据集迁移训练<br/>
+2：ADDA算法实现MNIST和USPS数据集迁移训练<br/>
