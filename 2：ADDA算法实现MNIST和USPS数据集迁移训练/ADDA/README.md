@@ -1,4 +1,4 @@
-# PyTorch-ADDA
+# PyTorch-ADDA   Adversarial Adaptation与Testing部分代码还存在错误，需继续修改。
 A PyTorch implementation for [Adversarial Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464).
 
 ## Environment
