@@ -1,0 +1,1 @@
+python semitraining.py --src_dataset dukemtmc --tgt_dataset market1501 --resume ./pretrained_models/dukemtmc_trained.pth.tar --iteration 30 --logs_dir ./logs/duke2market/ --gpu-devices 0 --num-split 2
