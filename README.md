@@ -9,3 +9,4 @@
 5：MCD算法实现MNIST和MNIST数据集迁移训练<br/>
 6：JAN算法实现office-31数据集上的迁移训练<br/>
 7：SSG算法实现DukeMTMC和Market1501数据集迁移训练<br/>
+8：DCAN算法实现office-31数据集上的迁移训练<br/>
