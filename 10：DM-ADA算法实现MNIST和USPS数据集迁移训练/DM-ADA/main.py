@@ -108,6 +108,7 @@ def main():
     target_train = dset.ImageFolder(root=target_train_root, transform=transform_target)
     target_val = dset.ImageFolder(root=target_val_root, transform=transform_target)
 
+    //修改
     source_trainloader = torch.utils.data.DataLoader(source_train, batch_size=opt.batchSize, shuffle=True,
                                                      num_workers=opt.workers, drop_last=True)
     source_valloader = torch.utils.data.DataLoader(source_val, batch_size=opt.batchSize, shuffle=False,
