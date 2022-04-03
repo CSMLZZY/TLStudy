@@ -12,3 +12,4 @@
 8：DCAN算法实现office-31数据集上的迁移训练<br/>
 9：DADA算法实现VisDA数据集上的迁移训练<br/>
 10：DM-ADA算法实现MNIST和USPS数据集迁移训练<br/>
+11：GDCAN算法实现office-31数据集上的迁移训练<br/>
