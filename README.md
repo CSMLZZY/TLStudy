@@ -14,3 +14,4 @@
 10：DM-ADA算法实现MNIST和USPS数据集迁移训练<br/>
 11：GDCAN算法实现office-31数据集上的迁移训练<br/>
 12：GVB算法实现office-31数据集上的迁移训练<br/>
+13：ILA-DA算法实现office-31数据集上的迁移训练<br/>
